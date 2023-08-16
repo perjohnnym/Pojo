@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e075846c-93ae-4624-8c9f-f09d931f6390" name="Changes" comment="fixed bracket formatting in User.java" />
+    <list default="true" id="e075846c-93ae-4624-8c9f-f09d931f6390" name="Changes" comment="fixed bracket formatting in User.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coderscampus/pojo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderscampus/pojo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coderscampus/pojo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderscampus/pojo/UserService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +48,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coderscampus.pojo.Main" />
+      <module name="POJO-JM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coderscampus.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +79,7 @@
       <workItem from="1691790154466" duration="3300000" />
       <workItem from="1691948733488" duration="7636000" />
       <workItem from="1692053922868" duration="1608000" />
-      <workItem from="1692222534128" duration="387000" />
+      <workItem from="1692222534128" duration="4999000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bracket formatting in User.java">
       <option name="closed" value="true" />
@@ -65,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692222778736</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed bracket formatting in User.java">
+      <option name="closed" value="true" />
+      <created>1692223193203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692223193203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
