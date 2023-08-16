@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e075846c-93ae-4624-8c9f-f09d931f6390" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO-JM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/pojo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/pojo/UserService.java" afterDir="false" />
-    </list>
+    <list default="true" id="e075846c-93ae-4624-8c9f-f09d931f6390" name="Changes" comment="fixed bracket formatting in User.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +55,24 @@
       <workItem from="1691790154466" duration="3300000" />
       <workItem from="1691948733488" duration="7636000" />
       <workItem from="1692053922868" duration="1608000" />
-      <workItem from="1692222534128" duration="77000" />
+      <workItem from="1692222534128" duration="387000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed bracket formatting in User.java">
+      <option name="closed" value="true" />
+      <created>1692222778736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692222778736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed bracket formatting in User.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bracket formatting in User.java" />
   </component>
 </project>
